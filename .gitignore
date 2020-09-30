@@ -2,7 +2,7 @@
 Thumbs.db
 ehthumbs.db
 
-# Folder config file
+# Folder configuration file
 Desktop.ini
 
 # Recycle Bin used on file shares
@@ -17,12 +17,12 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# =========================
+# ==========================
 # Operating System Files
-# =========================
+# ==========================
 
 # OSX
-# =========================
+# ==========================
 
 .DS_Store
 .AppleDouble
